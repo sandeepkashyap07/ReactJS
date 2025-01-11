@@ -1,0 +1,11 @@
+.buttonstyle{
+background-color: black;
+border: 2px solid yellowgreen;
+color: white;
+}
+
+.productTitle{
+    font-size : 40px;
+    font: bolder;
+    color: brown;
+}
